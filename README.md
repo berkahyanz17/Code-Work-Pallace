@@ -1,4 +1,4 @@
-# Code-Work-Pallace
+# Code-Work-Palace
 
 A sandbox of small computer-vision and Python experiments — mostly OpenCV/MediaPipe scripts built while learning, ahead of using them for real robotics/vision work.
 
